@@ -2,6 +2,9 @@
 # Binary installer
 #
 
+# chaning permission for homebrew to /usr/local
+sudo chown -R $(whoami):admin /usr/local
+
 # Check for Homebrew
 if test ! $(which brew); then
   echo "Installing homebrew..."
