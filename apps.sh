@@ -12,6 +12,7 @@ apps=(
   dropbox
   google-chrome-dev
   vlc
+  spotify
 )
 
 
@@ -42,7 +43,6 @@ main() {
   brew cask install --appdir=$appdir ${apps[@]}
 
   # link with alfred
-  alfred
   cleanup
 }
 
