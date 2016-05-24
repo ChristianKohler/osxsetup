@@ -8,10 +8,9 @@ set -e
 apps=(
   1password
   appcleaner
-  atom
+  visual-studio-code
   dropbox
   google-chrome-dev
-  sourcetree
   vlc
 )
 
