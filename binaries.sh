@@ -23,12 +23,9 @@ brew install findutils
 # Install Bash 4
 brew install bash
 
-# Install more recent versions of some OS X tools
-brew tap homebrew/dupes
-brew install homebrew/dupes/grep
-
 # Install other useful binaries
 binaries=(
+  grep
   git
   node
 )
