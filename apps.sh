@@ -10,7 +10,7 @@ apps=(
   appcleaner
   visual-studio-code
   dropbox
-  google-chrome-dev
+  google-chrome
   vlc
   spotify
 )
