@@ -6,13 +6,9 @@ set -e
 
 # Apps
 apps=(
-  1password
   appcleaner
   visual-studio-code
-  dropbox
-  google-chrome
-  vlc
-  spotify
+  hyper
 )
 
 
